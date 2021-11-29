@@ -1,3 +1,4 @@
 # Projeto-LS
-Link do Site: https://projetoi.ricardolins.repl.co/
-Link do Replit: https://replit.com/@RicardoLins/ProjetoI#index.html
+Link do Site: https://projetols.ricardolins.repl.co/
+
+Link do Replit: https://replit.com/@RicardoLins/ProjetoLS
